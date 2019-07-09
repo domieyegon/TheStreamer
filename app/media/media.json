@@ -1,0 +1,22 @@
+[
+    {
+        "id" : "1",
+        "name": "Count your blessings",
+        "source": "/videos/frag_blessings.mp4"
+    },
+    {
+        "id" : "2",
+        "name": "Seconds",
+        "source": "/videos/frag_seconds.mp4"
+    },
+    {
+        "id" : "3",
+        "name": "Bunny",
+        "source": "/videos/frag_bunny.mp4"
+    },
+    {
+        "id" : "4",
+        "name": "Boasty Remix",
+        "source": "/videos/frag_boasty.mp4"
+    }
+]

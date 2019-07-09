@@ -1,0 +1,16 @@
+<div class="col-md-7">
+  <video id="myVideo" oncontextmenu="return false;" controls width="700" height="400" autoplay preload></video>
+</div>
+<div class="col-md-5">
+  <div id="playlist" ng-repeat = "video in someVideos"> 
+    
+    <div class="panel" style="background-color: beige;">
+      <div id="playlist-div" ng-click="playVideo()" ng-model= "video.id" class="panel-body" >
+        <p class="video-list" id="">
+          <a class="video-list" href="{{video.source}}">{{video.name}}</a>
+          </p>
+      </div>
+    </div>
+  </div>
+  
+</div>
